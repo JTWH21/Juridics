@@ -1,1 +1,1 @@
-export const API_BASE = 'https://juridicsback.onrender.com';
+const API_BASE = 'https://juridicsback.onrender.com/api';
